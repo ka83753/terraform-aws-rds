@@ -1,4 +1,3 @@
-# Learn Terraform - No-Code Provisioning
+# Example Terraform No-Code Provisioning Module
 
-This is a companion repository for HashiCorp's [No-Code Provisioning
-tutorial](https://learn.hashicorp.com/tutorials/terraform/no-code-provisioning).
+Show how users can provision infrastructure with minimal Terrafrom knowledge
